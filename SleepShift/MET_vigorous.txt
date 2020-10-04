@@ -1,0 +1,14 @@
+11.0:bicycling, stationary, 161-200 watts, vigorous effort
+14.0:bicycling, stationary, 201-270 watts, very vigorous effort
+9.0:stair-treadmill ergometer, general
+10.5:running, 10.9 km/h
+11.0:running, 11.3 km/h
+11.8:running, 12 km/h
+11.8:running, 12.9 km/h
+12.3:running, 13.8 km/h
+12.8:running, 14.5 km/h
+14.5:running, 16.1 km/h
+16.0:running, 17.7 km/h
+19.0:running, 19.3 km/h
+19.8:running, 20.9 km/h
+23.0:running, 22.5 km/h

@@ -1,0 +1,12 @@
+6.8:bicycling, stationary, 90-100 watts
+8.8:bicycling, stationary, 101-160 watts
+8.0:calisthenics (e.g., push ups, sit ups, pull-ups, jumping jacks)
+6.0:resistance training (weight lifting - free weight, nautilus or universal-type), power lifting or body building
+6.0：jog/walk combination (jogging component of less than 10 minutes)
+7.0:jogging, general
+8.0:jogging, in place
+6.0:running, 6.4 km/h
+8.3:running, 8 km/h
+7.0:walking, 7.2 km/h, level, firm surface, very, very brisk
+8.3:walking, 8.0 km/h, level, firm surface
+

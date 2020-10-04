@@ -1,0 +1,16 @@
+3.5:bicycling, stationary, 30-50 watts
+4.8:bicycling, stationary, 51-89 watts
+2.8:calisthenics (e.g., situps, abdominal crunches)
+3.8:calisthenics (e.g., push ups, sit ups, pull-ups, lunges)
+3.5:calisthenics (example: back exercises), going up & down from floor
+3.5:resistance (weight) training, multiple exercises, 8-15 repetitions at varied resistance
+5.0:resistance (weight) training, squats , slow or explosive effort
+3.8:home exercise, general
+2.3:stretching, mild
+3.0:pilates, general
+2.8:upper body exercise, arm ergometer
+4.3:upper body exercise, stationary bicycle 
+1.0:meditation
+2.0:walking, less than 3.2 km/h, level, strolling, very slow
+2.8:walking, 3.2 km/h, level, slow pace, firm surface 
+4.3:walking, 5.6 km/h, level, brisk, firm surface
