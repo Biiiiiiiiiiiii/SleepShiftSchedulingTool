@@ -242,6 +242,7 @@ public class Sleep {
         hour = s.nextInt();
         minute = s.nextInt();
         LocalTime alarm = LocalTime.of(hour, minute);
+        System.out.println("Alarm set at "+alarm);
         LocalTime offBlueLight = alarm.minusHours(11);
         if(LocalTime.now().equals(offBlueLight)){
             blueLightFilter=true;
