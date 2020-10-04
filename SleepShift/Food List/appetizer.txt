@@ -1,0 +1,15 @@
+Chicken curry bun:204
+Sardine sandwich:71
+Coconut bun:219
+Red bean bun:223
+Chocolate chip cookies:200
+Cheesecake:400
+Curry puff:128
+Plain oatmeal:225
+Boiled egg:76
+Fried egg:128
+Doughnut:268
+Full-fat milk:150
+Low fat milk:102
+Full-fat chocolate milk:208
+Strawberry milk:244

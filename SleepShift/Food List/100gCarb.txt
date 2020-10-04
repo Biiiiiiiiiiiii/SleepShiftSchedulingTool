@@ -1,0 +1,16 @@
+Bagel:310
+Digestive biscuits:480
+Jaffa cake:370
+White bread:240
+Wholemeal bread:220
+Cornflakes:370
+Cream crackers:440
+Macaroni:95
+Naan bread:320
+Pasta:110
+Porridge oats:55
+Boiled potatoes:70
+Roast potatoes:140
+Rice:140
+Egg-fried rice:200
+Spaghetti:101

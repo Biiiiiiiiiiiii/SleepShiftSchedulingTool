@@ -1,0 +1,28 @@
+Tinned anchovies:300
+Fried bacon:500
+Grilled bacon:380
+Roast beef:280
+Chicken:200
+Roast duck:430
+Eggs:150
+Fried eggs:180
+Fish cake:200
+Fish fingers:220
+Gammon:280
+Ham:240
+Roast lamb:300
+Boiled lobster:100
+Luncheon meat:400
+Mackerel:300
+Prawns:100
+Pork:290
+Rabbit:180
+Salmon:180
+Sardines tinned in oil:220
+Sardines in tomato sauce:180
+Fried pork sausage:320
+Grilled pork sausage:280
+Sausage roll:480
+Steak and kidney pie:350
+Tuna tinned in water:100
+Tuna tinned in oil:180

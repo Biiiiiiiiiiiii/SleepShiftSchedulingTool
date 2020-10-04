@@ -1,0 +1,9 @@
+Butter:750
+Chocolate:500
+Cod liver oil:900
+Corn snack:500
+Crisps:500
+Honey:280
+Jam:250
+Margarine:750
+Mars bar:480

@@ -1,0 +1,40 @@
+Apple:44
+Apricot:29
+Banana:65
+Blueberries:30
+Blackberries:25
+Blackcurrant:30
+Broccoli:32
+Baked beans:80
+Dried beans:130
+Cabbage:20
+Carrot:25
+Cauliflower:30
+Celery:10
+Cherry:50
+Courgette:20
+Cucumber:10
+Grapes:62
+Grapefruit:32
+Kiwi:50
+Leek:20
+Lentils:100
+Lettuce:15
+Melon:28
+Boiled mushroom:12
+Fried mushroom:145
+Olives:80
+Boiled onion:18
+Fried onion:155
+Orange:30
+Peas:148
+Peach:30
+Pear:38
+Pineapple:40
+Plum:39
+Spinach:8
+Strawberries:30
+Sweetcorn:130
+Tomato:20
+Cherry tomato:17
+Watercress:20

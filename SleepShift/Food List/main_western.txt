@@ -1,0 +1,44 @@
+Salad:100
+Creamed soup:375
+Beef burger:317
+Cheese burger:341
+Double cheese burger:414
+Fish and chips:585
+Fried fish cake with bun:433
+Hot dog:225
+Apple pie:260
+Pepperoni pizza(1 slice):155
+Chicken and onion pizza(1 slice):242
+Chicken and pineapple pizza(1 slice):268
+Vegetarian pizza(1 slice):149
+Spinach pizza(1 slice):145
+Seafood pizza(1 slice):186
+Shrimp pizza(1 slice):190
+Sausage pizza(1 slice):177
+Luncheon meat(1 slice):93
+Grilled chicken breast:367
+Curry chicken:195
+Fried chicken:290
+Mashed potatoes:87
+Coleslaw:62
+French fries:290
+Chicken nuggets(3 pieces):177
+Chicken wing:94
+Tuna sandwich:174
+Fish salad sandwich:328
+Chicken salad sandwich:481
+Chicken sandwich:270
+Ham sandwich:352
+Lasagna:172
+Smoked salmon:88
+Beef pot roast:180
+Baked potato:161
+Dumplings(3 pieces):150
+Japanese sweet potato:113
+Omelette:94
+Potato wedges:123
+Roast potato:203
+BBQ rib:142
+Bean burrito:190
+Bacon:106
+

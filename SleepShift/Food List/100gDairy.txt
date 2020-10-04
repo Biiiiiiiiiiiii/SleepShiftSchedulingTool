@@ -1,0 +1,13 @@
+Akkawi cheese:289
+Cottage cheese:98
+Cream cheese:428
+Kashkaval cheese:404
+Custard:100
+Ice cream:180
+Whole milk:180
+Soy milk:36
+Flavoured mousse:140
+Omelette with cheese:266
+Trifle with cream:190
+Natural yogurt:60
+Reduced fat yogurt:45
